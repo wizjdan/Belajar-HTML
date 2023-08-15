@@ -11,7 +11,7 @@ Ini adalah dokumentasi saya belajar HTML
 •	Heading v
 •	Paragraph v
 •	Entities v
-•	Break Line
+•	Break Line v
 •	Style
 •	Formatting
 •	Comment
