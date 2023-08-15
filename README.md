@@ -13,9 +13,9 @@ Ini adalah dokumentasi saya belajar HTML
 •	Entities v
 •	Break Line v
 •	Style v
-•	Formatting
-•	Comment
-•	Color
+•	Formatting v
+•	Comment v
+•	Color v
 •	List
 •	Link
 •	Image
