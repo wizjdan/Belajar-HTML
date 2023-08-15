@@ -12,7 +12,7 @@ Ini adalah dokumentasi saya belajar HTML
 •	Paragraph v
 •	Entities v
 •	Break Line v
-•	Style
+•	Style v
 •	Formatting
 •	Comment
 •	Color
