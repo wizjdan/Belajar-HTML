@@ -16,7 +16,7 @@ Ini adalah dokumentasi saya belajar HTML
 •	Formatting v
 •	Comment v
 •	Color v
-•	List
+•	List v
 •	Link
 •	Image
 •	Picture
