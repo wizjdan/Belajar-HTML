@@ -1,16 +1,16 @@
 # Belajar-HTML
 Ini adalah dokumentasi saya belajar HTML
-•	Pendahuluan
-•	Pengenalan Web
-•	Pengenalan HTML
-•	Pengenalan Web Hosting
-•	Persiapan
-•	Menjalankan Web di Komputer
-•	Menjalankan Web di Hosting
-•	Penamaan File HTML
-•	Heading
-•	Paragraph
-•	Entities
+•	Pendahuluan v
+•	Pengenalan Web v
+•	Pengenalan HTML v
+•	Pengenalan Web Hosting v
+•	Persiapan v
+•	Menjalankan Web di Komputer v
+•	Menjalankan Web di Hosting v
+•	Penamaan File HTML v
+•	Heading v
+•	Paragraph v
+•	Entities v
 •	Break Line
 •	Style
 •	Formatting
