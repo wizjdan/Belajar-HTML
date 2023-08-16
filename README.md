@@ -27,9 +27,9 @@ Ini adalah dokumentasi saya belajar HTML
 •	Block dan Inline v
 •	Video v
 •	Audio v
-•	HTML 5
-•	Inline Frame
-•	Table
+•	HTML 5 v
+•	Inline Frame v
+•	Table v
 •	Sematic
 •	Layout
 •	Responsive
