@@ -30,9 +30,9 @@ Ini adalah dokumentasi saya belajar HTML
 •	HTML 5 v
 •	Inline Frame v
 •	Table v
-•	Sematic
-•	Layout
-•	Responsive
-•	ID
-•	Tag Lainnya
+•	Sematic v
+•	Layout v 
+•	Responsive v
+•	ID v
+•	Tag Lainnya v
 
