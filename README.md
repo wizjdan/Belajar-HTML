@@ -17,11 +17,11 @@ Ini adalah dokumentasi saya belajar HTML
 •	Comment v
 •	Color v
 •	List v
-•	Link
-•	Image
-•	Picture
-•	Computer Code
-•	Emoji
+•	Link v
+•	Image v
+•	Picture v
+•	Computer Code v
+•	Emoji v
 •	Head
 •	Favicon
 •	Block dan Inline
