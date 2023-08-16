@@ -22,11 +22,11 @@ Ini adalah dokumentasi saya belajar HTML
 •	Picture v
 •	Computer Code v
 •	Emoji v
-•	Head
-•	Favicon
-•	Block dan Inline
-•	Video
-•	Audio
+•	Head v
+•	Favicon v
+•	Block dan Inline v
+•	Video v
+•	Audio v
 •	HTML 5
 •	Inline Frame
 •	Table
